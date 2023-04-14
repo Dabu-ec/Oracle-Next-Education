@@ -1,17 +1,26 @@
 tailwind.config = {
     theme: {
         fontFamily: {
-            inter: ['Inter'],
+            inter: ['Inter', 'sans-serif'],
         },
         colors: {
-            primary: {
+            'white': '#ffffff',
+            "transparent":'transparent',
+            "primary-dark": {
                 100: '#609ED4',
                 200: '#356EA9',
                 300: '#0A3871',
                 400: '#072B61',
                 500: '#052051',
             },
-            secondary: {
+            "primary-light": {
+                100: '#F3F5FC',
+                200: '#EFF1FA',
+                300: '#E9ECF8',
+                400: '#AAB2D5',
+                500: '#757FB2',
+            },
+            "secondary": {
                 100: '#CED4DA',
                 200: '#ADB5BD',
                 300: '#868E96',
@@ -20,6 +29,9 @@ tailwind.config = {
             }
 
         },
+        content:{
+            
+        }
 
     }
 }
