@@ -1,0 +1,9 @@
+/* EN ESTE CHALLENGE APRENDIA USAR TAILWIND*/
+
+.writing-vertical{
+    writing-mode: vertical-rl;
+}
+
+.text-shadow{
+    text-shadow: #ADB5BD 1px 0 10px
+}
