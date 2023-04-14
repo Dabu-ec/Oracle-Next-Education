@@ -1,6 +1,6 @@
 console.log('POR: DANNY JOEL BUCAY SHUCAD')
 console.log('Challenge ONE')
-
+alert('DESARROLLADO POR: DANNY JOEL BUCAY SHUCAD')
 
 var txt_input = document.getElementById('txt_input');
 var txt_ouput = document.getElementById('txt_ouput');
