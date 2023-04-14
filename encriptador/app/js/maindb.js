@@ -1,4 +1,5 @@
-console.log('DEV: DANNY JOEL BUCAY SHUCAD')
+console.log('POR: DANNY JOEL BUCAY SHUCAD')
+console.log('Challenge ONE')
 
 
 var txt_input = document.getElementById('txt_input');
